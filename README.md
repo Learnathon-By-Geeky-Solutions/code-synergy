@@ -6,7 +6,7 @@
 - fabliha13
 
 ## Mentor
-- Jugal-Chanda
+- Md. Redwanuzzaman
 
 ## Project Description
 Add your project description here.
