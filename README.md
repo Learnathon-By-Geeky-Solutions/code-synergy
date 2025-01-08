@@ -9,7 +9,8 @@
 - Md. Redwanuzzaman
 
 ## Project Description
-Add your project description here.
+
+**Updated**: We are currently discussing the project with our mentor and will provide an update shortly. Thank you for your patience.
 
 ## Getting Started
 1. Clone the repository
