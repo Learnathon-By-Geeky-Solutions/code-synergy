@@ -10,7 +10,7 @@
 
 ## Project Description
 
-**Updated**: We are currently discussing the project with our mentor and will provide an update shortly. Thank you for your patience.
+**Update**: We are currently discussing the project with our mentor and will provide an update shortly. Thank you for your patience.
 
 ## Getting Started
 1. Clone the repository
