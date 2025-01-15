@@ -8,9 +8,27 @@
 ## Mentor
 - Md. Redwanuzzaman
 
-## Project Description
+## Project Title
+### **Smart ERP – Intelligent Business Solutions**
 
-**Update**: We are currently discussing the project with our mentor and will provide an update shortly. Thank you for your patience.
+## Project Description
+This project focuses on the development of a specialized Human Resource Management (HRM) Module, an essential component of the broader ERP ecosystem.
+Designed to streamline HR operations, improve employee engagement, 
+and enable data-driven decision-making, this module is a robust solution for managing today’s dynamic workforce.
+
+### Project Objective
+The HRM Module simplifies and optimizes human resource processes by leveraging automation, centralized data management, and advanced analytics. 
+Our goal is to deliver a scalable and user-friendly platform that empowers organizations to manage their workforce efficiently while reducing administrative burdens.
+
+### Key Features
+The HRM Module offers a wide range of features tailored to address the diverse needs of modern HR teams:
+- Employee Management
+- Attendance Tracking & Leave Management
+- Recruitment Management
+- Payroll Processing
+- Performance Management
+- Employee Self-Service Portal
+
 
 ## Getting Started
 1. Clone the repository
